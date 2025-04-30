@@ -6,7 +6,6 @@ import Home from "@/pages/home";
 import FlyersDesign from "@/pages/flyers-design";
 import WebsiteDevelopment from "@/pages/website-development";
 import BusinessConsulting from "@/pages/business-consulting";
-import RecruitingAgents from "@/pages/recruiting-agents";
 import AgentsRecruiting from "@/pages/AgentsRecruiting";
 import JobApplications from "@/pages/job-applications";
 import GrantFiling from "@/pages/grant-filing";
@@ -32,7 +31,6 @@ function AppRouter() {
       <Route path="/flyers-design" element={<FlyersDesign />} />
       <Route path="/website-development" element={<WebsiteDevelopment />} />
       <Route path="/business-consulting" element={<BusinessConsulting />} />
-      <Route path="/recruiting-agents" element={<RecruitingAgents />} />
       <Route path="/agents-recruiting" element={<AgentsRecruiting />} />
       <Route path="/job-applications" element={<JobApplications />} />
       <Route path="/grant-filing" element={<GrantFiling />} />
