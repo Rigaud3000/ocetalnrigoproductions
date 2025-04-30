@@ -15,7 +15,7 @@ import {
   PhoneCall
 } from "lucide-react";
 
-export default function RecruitingAgents() {
+export default function AgentsRecruiting() {
   const benefits = [
     {
       icon: UserCheck,
