@@ -1,4 +1,3 @@
-
 import { Routes, Route } from "react-router-dom";
 
 // Pages
@@ -12,17 +11,17 @@ import GrantFiling from "@/pages/grant-filing";
 import Contact from "@/pages/contact";
 import Checkout from "@/pages/checkout";
 import CryptoPayment from "@/pages/crypto-payment";
-import ThankYou from "@/pages/thankyou";
+import ThankYou from "@/pages/ThankYou";
 import NotFound from "@/pages/not-found";
 
 // Components
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
-import WhatsAppButton from "@/components/WhatsAppButton";
-import AIChatbot from "@/components/AIChatbot";
+import Navbar from "@/components/layout/Navbar";
+import Footer from "@/components/layout/Footer";
+import WhatsAppButton from "@/components/layout/WhatsAppButton";
+import AIChatbot from "@/components/shared/AIChatbot";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import { ChatProvider } from "@/lib/chat-provider";
+import { ChatProvider } from "@/contexts/chatContext";
 
 function AppRouter() {
   return (
