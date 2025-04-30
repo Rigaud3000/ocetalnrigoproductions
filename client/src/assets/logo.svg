@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g>
+    <!-- Red R Logo -->
+    <path d="M150 20 L220 20 L250 50 L250 120 L220 150 L180 150 L220 190 L220 220 L180 220 L120 160 L120 220 L80 220 L80 50 L110 20 Z" fill="#e52630" />
+    <path d="M120 60 L120 110 L180 110 L200 90 L200 80 L180 60 Z" fill="white" />
+    
+    <!-- OCTELA + RIGO text would be here, but text in SVG can be problematic -->
+    <!-- Instead, we'll use the actual logo image in the navbar component -->
+  </g>
+</svg>

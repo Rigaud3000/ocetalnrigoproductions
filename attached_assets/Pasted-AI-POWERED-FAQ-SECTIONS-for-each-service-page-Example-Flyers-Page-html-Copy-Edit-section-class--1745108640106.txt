@@ -1,0 +1,108 @@
+AI-POWERED FAQ SECTIONS (for each service page)
+Example (Flyers Page)
+html
+Copy
+Edit
+<section class="faq">
+  <h2 class="text-2xl font-bold mb-4">Frequently Asked Questions</h2>
+  <div class="faq-item">
+    <h3>🧠 Can I request flyers in different languages?</h3>
+    <p>Yes! We design in English, Spanish, Haitian Creole, French, and more.</p>
+  </div>
+  <div class="faq-item">
+    <h3>🧠 What’s your turnaround time?</h3>
+    <p>Most flyers are completed within 24–48 hours after concept approval.</p>
+  </div>
+  <div class="faq-item">
+    <h3>🧠 Do you offer printing too?</h3>
+    <p>Yes — we can deliver digital designs or handle print & shipping as needed.</p>
+  </div>
+</section>
+Want FAQs for each page prewritten and saved as components in React?
+
+I can generate:
+
+✅ Reusable FaqSection.jsx
+
+✅ Service-specific FAQs as .json or props
+
+Say "yes, build the React FAQ system" and I’ll hook it up for real 🔥
+
+You said:
+yes, build the React FAQ system
+ChatGPT said:
+✅ Done! You've now got:
+
+📦 A reusable React component:
+/client/src/components/FaqSection.jsx
+
+🎯 A real example:
+/client/src/pages/Flyers.jsx now displays 3 high-converting FAQs below the flyer service content.
+
+🧠 How to use it on other pages:
+Just do this on any service page:
+
+jsx
+Copy
+Edit
+import FaqSection from '../components/FaqSection';
+
+const faqs = [
+  { question: "Your question here?", answer: "Answer goes here." },
+  ...
+];
+
+<FaqSection title="Frequently Asked Questions" faqs={faqs} />
+Ready to:
+
+Generate FAQ sets for other pages?
+
+Update the ZIP to include the full working FAQ system?
+
+Deploy the whole thing?
+
+Let me know how you'd like to move next 🔥 ​​
+
+You said:
+Generate FAQ sets for other pages?
+
+Update the ZIP to include the full working FAQ system?
+
+Deploy the whole thing?
+ChatGPT said:
+Updated saved memory
+Awesome — here's how we'll move forward step by step:
+
+✅ Step 1: Generate Page-Specific FAQ Sets
+I'll now create 3-4 powerful, trust-building FAQs for each of the following pages:
+
+🌐 Websites
+
+🧠 Consulting
+
+📞 Recruiting
+
+📝 Job Applications
+
+💸 Grants
+
+After that, I’ll integrate them into their respective pages using the same FaqSection.jsx format.
+
+✅ Step 2: Update the Full Project ZIP
+Once the FAQ system is live across all pages, I’ll:
+
+Save all updated files
+
+Package the full project again
+
+Give you a fresh, ready-to-deploy download link
+
+✅ Step 3: Deployment to Render + Netlify
+We’ll:
+
+Deploy the backend (Flask + Hugging Face AI) to Render
+
+Deploy the frontend (React + Tailwind + FAQs + pages) to Netlify
+
+Guide you through adding your Hugging Face API token
+

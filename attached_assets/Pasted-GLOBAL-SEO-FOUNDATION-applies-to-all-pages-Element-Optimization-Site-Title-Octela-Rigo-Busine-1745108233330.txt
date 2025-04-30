@@ -1,0 +1,122 @@
+GLOBAL SEO FOUNDATION (applies to all pages)
+
+Element	Optimization
+Site Title	Octela + Rigo — Business Growth Solutions
+Meta Description	Empowering entrepreneurs with flyers, websites, recruiting, and grant services. Modern, fast, and professional.
+Brand Keywords	Octela, Rigo, Octela + Rigo, Octela x Rigo
+Speed Optimization	Use image compression, Tailwind JIT, code splitting
+Security	Enforce HTTPS via Netlify/Render
+Tracking	Add Google Analytics + Meta Pixel (Facebook Ads)
+📄 PAGE-SPECIFIC STRATEGY
+🏠 / (Homepage)
+Title: Octela + Rigo | Premium Business Solutions
+
+Description: We help entrepreneurs and businesses thrive through bold design, expert recruiting, professional websites, and grant support.
+
+Primary Keyword: business growth agency
+
+Secondary Keywords: flyer design services, website agency, business consulting, customer service recruiting
+
+Call to Action: Contact us | Book a Call | WhatsApp us now
+
+🎨 /flyers-design
+Title: Custom Flyer Design Services | Octela + Rigo
+
+Description: Eye-catching business flyers designed to convert and elevate your brand. Fast turnaround and premium visuals.
+
+Primary Keyword: flyer design services
+
+Secondary Keywords: business flyers, marketing flyer design, custom flyer design, flyer design agency
+
+H1 Tag: Professional Business Flyer Design
+
+CTA: Get a Quote | View Examples
+
+🌐 /website-development
+Title: Website Development Services | Octela + Rigo
+
+Description: Fast, beautiful websites tailored for entrepreneurs and businesses. Fully responsive and optimized for conversion.
+
+Primary Keyword: website development agency
+
+Secondary Keywords: business website builder, small business websites, affordable web design
+
+H1 Tag: Custom Website Development
+
+CTA: Start My Website | Free Consultation
+
+🧠 /business-consulting
+Title: Business Consulting Services | Strategy + Execution
+
+Description: Unlock new opportunities with expert business consulting. We'll help you scale smarter.
+
+Primary Keyword: small business consulting
+
+Secondary Keywords: growth strategy consulting, marketing consultant, business coaching
+
+H1 Tag: Strategic Business Consulting
+
+CTA: Book a Free Strategy Call
+
+📞 /recruiting-agents
+Title: Sales + CSR Agent Recruiting | Octela + Rigo
+
+Description: Need qualified cold-callers or CSR reps? We recruit, screen, and deliver reliable agents fast.
+
+Primary Keyword: sales agent recruiting
+
+Secondary Keywords: cold calling agents, hire virtual reps, CSR staffing agency
+
+H1 Tag: Agent Recruiting Services
+
+CTA: Hire Now | Talk to Our Team
+
+📝 /job-applications
+Title: Job Application Assistance | Resume + Submissions
+
+Description: Let us help you apply, polish your resume, and land that interview.
+
+Primary Keyword: job application help
+
+Secondary Keywords: resume help, apply to jobs, job submission services
+
+H1 Tag: Job Application Help
+
+CTA: Get Started | Upload Resume
+
+💸 /grant-filing
+Title: Grant Filing Services | Business Funding Support
+
+Description: We help entrepreneurs and nonprofits file and secure grants. Save time and maximize your chances.
+
+Primary Keyword: grant filing services
+
+Secondary Keywords: business grants, nonprofit grants, small business funding help
+
+H1 Tag: Grant Application Filing
+
+CTA: Apply for a Grant | Speak to an Advisor
+
+📱 /contact
+Title: Contact Octela + Rigo | Let’s Work Together
+
+Description: Reach us by email, WhatsApp, or contact form. Fast replies and professional support.
+
+Primary Keyword: contact business agency
+
+Secondary Keywords: talk to a consultant, message a design agency
+
+H1 Tag: Let’s Connect
+
+CTA: Start Now | Send a Message
+
+⚙️ BONUS TIPS FOR SEO DOMINATION
+✅ Add Open Graph + Twitter meta tags
+
+✅ Use JSON-LD schema: @type: Organization, Service, LocalBusiness
+
+✅ Submit sitemap to Google Search Console
+
+✅ Use internal linking between pages (ex: link from flyer to contact)
+
+✅ Include at least 1 FAQ per page for rich results
