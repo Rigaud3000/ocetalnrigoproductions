@@ -36,7 +36,7 @@ function AppRouter() {
       <Route path="/contact" element={<Contact />} />
       <Route path="/checkout" element={<Checkout />} />
       <Route path="/crypto-payment" element={<CryptoPayment />} />
-      <Route path="/thankyou" element={<ThankYou />} />
+      <Route path="/Thankyou" element={<ThankYou />} />
       <Route path="*" element={<NotFound />} />
     </Routes>
   );
